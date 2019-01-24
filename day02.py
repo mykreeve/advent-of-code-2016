@@ -41,5 +41,5 @@ for i in instructions:
             pass
         else:
             position = (h,v)
-    print(translate[position], end='')
+    print(new_translate[position], end='')
 print("")
